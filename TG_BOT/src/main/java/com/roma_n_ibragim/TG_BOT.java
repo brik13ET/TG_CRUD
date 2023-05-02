@@ -6,7 +6,7 @@ package com.roma_n_ibragim;
 
 /**
  *
- * @author user0
+ * @author Roma,Ibragim
  */
 public class TG_BOT {
 
